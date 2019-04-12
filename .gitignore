@@ -9,6 +9,9 @@
 # dependencies
 /node_modules
 
+#Firebase credentials
+/src/appapi-keys.ts
+
 # IDEs and editors
 /.idea
 .project
